@@ -4,11 +4,6 @@
 
 Michael Business Analyst Modular is an AI-powered analytics platform designed to provide actionable business insights from your sales and customer data. The system is built with a modular Python backend, integrated database, and a flexible architecture for easy extension.
 
-## Deliverables
-- **Source Code**: Modular Python backend with integrated database logic and API endpoints.
-- **Database Schema & Sample Data**: Example schema and dataset for testing and demonstration, initialized via provided scripts.
-- **Documentation**: Comprehensive guide covering architecture, workflow, setup, and usage.
-
 ## Getting Started
 
 ### Prerequisites
