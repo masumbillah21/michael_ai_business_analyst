@@ -66,6 +66,25 @@ The project follows a modular structure:
 - Customer activity tracking
 - Business trend insights
 
+## Sample Questions
+
+### Sales & Products
+
+- "Top 5 products sold last month"
+- "Top 3 products sold last month"
+- "Which products generated the most revenue last month?"
+
+### Revenue & Trends
+
+- "Show me the revenue growth trend in the last 3 months"
+- "Show me the revenue growth trend over the last 6 months"
+- "How much revenue did we make last month?"
+
+### Customers
+
+- "How many customers signed up last month?"
+- "List top 5 customers by total purchases"
+
 ## Extending the System
 
 - Add new models to `models.py` for additional data types.
