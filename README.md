@@ -31,6 +31,16 @@ uv run -m michael.db_init
 uv run -m michael.app
 ```
 
+4. Create a `.env` file in the project root to store environment variables (such as secret keys, database URLs, etc.). Example:
+
+```env
+DEBUG=True
+GROQ_API_KEY=your_groq_key_here
+DATABASE_URL=sqlite:///michael.db
+```
+
+**Note**: For production deployments, set DEBUG=False in your .env file to disable debug mode and enhance security.
+
 The API will be available at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
 
 ## Architecture
