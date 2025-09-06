@@ -91,6 +91,10 @@ The project follows a modular structure:
 - Create new API endpoints in `routes/` for custom analytics.
 - Enhance the NLP logic in `nlp_parser.py` for broader query support.
 
+## Short Video About This Project
+
+https://drive.google.com/file/d/10YNX0BXqY-8E0Q2JQ4a3YgvC0hJG5aDY/view?usp=sharing
+
 ## Support & Contribution
 
 For questions, feature requests, or contributions, please open an issue or submit a pull request.
