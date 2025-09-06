@@ -1,0 +1,15 @@
+[project]
+name = "michael-business-analyst-modular"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "flask>=3.1.2",
+    "langchain>=0.3.27",
+    "langchain-groq>=0.3.7",
+    "pandas>=2.3.2",
+    "python-dateutil>=2.9.0.post0",
+    "python-dotenv>=1.1.1",
+    "sqlalchemy>=2.0.43",
+]
